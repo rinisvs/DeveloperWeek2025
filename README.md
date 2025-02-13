@@ -7,4 +7,5 @@
 
 
 <b>Pliops Challenge # 2 - A better vLLM framework for Inferencing </b>
+
 Look for and identify solutions within the vLLM community (source) to address the ever-expanding problem of the very high cost of GPU compute for having to recompute the previous prompts.
